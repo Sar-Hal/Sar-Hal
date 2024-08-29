@@ -9,8 +9,6 @@
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 
-
-<h3 align="left">📫 Connect with me: **sar656hal@gmail.com**</h3>
 <p align="left">
 </p>
 
@@ -19,7 +17,7 @@
 
 - 🌱 I’m currently learning Python
 - ⚔️ I’m looking to collaborate on Machine Learning Projects
-- 📫 👀
+- 📫 **sar656hal@gmail.com**👀
 
 <!---
 Sar-Hal/Sar-Hal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
