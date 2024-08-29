@@ -1,5 +1,5 @@
 
-align="center">Hi 👋, I'm Sar-Hal</h1>
+<align="center">Hi 👋, I'm Sar-Hal</h1>
 <h3 align="center">I'm interested in coding</h3>
 
 - 🔭 I’m currently working on **Face Detection Attendance System**
