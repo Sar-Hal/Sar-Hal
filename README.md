@@ -8,9 +8,9 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 📫 How to reach me **sar656hal@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">📫 Connect with me: **sar656hal@gmail.com**</h3>
 <p align="left">
 </p>
 
