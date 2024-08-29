@@ -1,4 +1,4 @@
-
+<img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=Sar-Hal.Sar-Hal"/>
 <h3 align="center">Hi 👋, I'm Sar-Hal</h1>
 <h3 align="center">I'm interested in coding</h3>
 
