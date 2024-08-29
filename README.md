@@ -1,7 +1,8 @@
 <img align = "right" src = "https://visitor-badge.laobi.icu/badge?page_id=Sar-Hal.Sar-Hal"/>
 
-<h3 align = "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nerko+One&size=35&duration=2000&pause=1500&color=19F7F7&center=true&vCenter=true&width=200&height=80&lines=Hi+there+;I'm+Sar-Hal" alt="Typing SVG" /></a>
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?font=Nerko+One&size=35&duration=2000&pause=1500&color=19F7F7&center=true&vCenter=true&width=200&height=80&lines=Hi+there+;I'm+Sar-Hal" alt="Typing SVG" />
 </h3>
+
 <h3 align="center">I'm interested in coding</h3>
 
 - 🔭 I’m currently working on **Face Detection Attendance System**
