@@ -7,7 +7,7 @@
   
  ⌨️ I'm interested in coding
 
- 🔭 I’m currently working on a **Face Detection Attendance System**
+ 🔭 I’m currently working on  **LLMs and Finetuning Models**
  
  🌱 I’m currently learning **Python , Backend**
  
