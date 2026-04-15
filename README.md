@@ -35,6 +35,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sar-Hal/Sar-Hal/output/github-contribution-grid-snake.svg">
 </picture>
 
+<h2>📊 | My Contributions</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sar-Hal&theme=tokyonight" alt="Sar-Hal's streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sar-Hal&theme=default" alt="Sar-Hal's streak"/>
 </p>
